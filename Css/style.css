@@ -39,16 +39,16 @@
 }
 .cards-content{
     border: 1px solid white;
-    width: 350px;
-    height: 160px;
+    width: 400px;
+    height: 150px;
     background-color: white;
     border-radius: 8px;
     
 }
 
 .card-img img{
-    height: 90px;
-    width: 90px;
+    height: 78px;
+    width: 78px;
     border-radius: 9px;
     margin-left: 25px;
     margin-top: 18px;
@@ -57,7 +57,7 @@
 .card-about{
     margin-top: 18px;
     /* background-color: aqua; */
-    width: 500px;
+    width: 900px;
     height: 90px;
 }
 .card-title h3{
@@ -70,12 +70,14 @@
 
 .card-bottom{
     justify-content: space-between;
+    font-size: small;
 }
-.card-price h4{
+.card-price h6{
     margin-left: 25px;
 }
 .card-add-item button{
     background-color: #00754a;
     border-radius: 30px;
     margin-right: 25px;
+    
 }
