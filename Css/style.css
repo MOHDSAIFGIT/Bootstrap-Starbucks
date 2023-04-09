@@ -1,83 +1,80 @@
-.container-fluid{
-    padding-left: 100px;
+.container-fluid {
+  padding-left: 100px;
 }
 
-.SearchBar{
-    width: 265px;
-    padding-left: 8px;
-    border-radius: 50px;
+.SearchBar {
+  width: 265px;
+  padding-left: 8px;
+  border-radius: 50px;
 }
 /* .SearchBar ::placeholder{
     text
 } */
-.nav2{
-    background-color: #1e3932;
-    color: white;  
-    padding: 15px;   
-    display: flex;
-    justify-content: space-around;
+.nav2 {
+  background-color: #1e3932;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
 }
 
-.nav2 button{
-    border-radius: 15px;
-    height: 30px;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin: 20px;
-    color: white;
-    background-color: #1e3932;
-    border-color: white;
-} 
-
-
-.view-menu-link{
-    text-decoration: none;
+.nav2 button {
+  border-radius: 15px;
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+  color: white;
+  background-color: #1e3932;
+  border-color: white;
 }
 
-.cards{
-    justify-content: space-evenly;
-}
-.cards-content{
-    border: 1px solid white;
-    width: 400px;
-    height: 150px;
-    background-color: white;
-    border-radius: 8px;
-    
+.view-menu-link {
+  text-decoration: none;
 }
 
-.card-img img{
-    height: 78px;
-    width: 78px;
-    border-radius: 9px;
-    margin-left: 25px;
-    margin-top: 18px;
+.cards {
+  justify-content: space-evenly;
+}
+.cards-content {
+  border: 1px solid white;
+  width: 400px;
+  height: 150px;
+  background-color: white;
+  border-radius: 8px;
 }
 
-.card-about{
-    margin-top: 18px;
-    /* background-color: aqua; */
-    width: 900px;
-    height: 90px;
-}
-.card-title h3{
-    font-size: medium;
+.card-img img {
+  height: 78px;
+  width: 78px;
+  border-radius: 9px;
+  margin-left: 25px;
+  margin-top: 18px;
 }
 
-.card-subtitle span{
-    font-size: small;
+.card-about {
+  margin-top: 18px;
+  /* background-color: aqua; */
+  width: 900px;
+  height: 90px;
+}
+.card-title h3 {
+  font-size: medium;
 }
 
-.card-bottom{
-    justify-content: space-between;
-    font-size: small;
+.card-subtitle span {
+  font-size: small;
 }
-.card-price h6{
-    margin-left: 25px;
+
+.card-bottom {
+  justify-content: space-between;
+  font-size: small;
 }
-.card-add-item button{
-    background-color: #00754a;
-    border-radius: 30px;
-    margin-right: 25px;
-    
+.card-price h6 {
+  margin-left: 25px;
+}
+.card-add-item button {
+  background-color: #00754a;
+  border-radius: 30px;
+  margin-right: 25px;
 }
